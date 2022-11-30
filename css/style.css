@@ -17,13 +17,8 @@
 /* Begin styling the tooltips and pins */
 .tooltip-up, .tooltip-down {
     position: absolute;
-    background: url(https://i.imgur.com/13rZbuk.png);
     width: 25px;
     height: 37px;
-}
-
-.tooltip-down {
-    background-position: 0 -37px;
 }
 
 .tooltip {
